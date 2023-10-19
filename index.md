@@ -1,5 +1,5 @@
 ---
-title: Nom du projet (À CHANGER)
+title: Mission Presqu'impossible
 layout: home
 ---
 
