@@ -5,7 +5,7 @@ layout: home
 
 ## Description du projet
 
-Voici une courte description du projet. Cette description devrait être une ou deux phrases.
+L'installation consiste en un parcours de lasers avec divers pièges à éviter pour chaque joueur, tandis qu'ils collectent des balles pour marquer des points. Le jeu se déroule en alternance entre les joueurs, chacun ayant la possibilité d'infliger des malus à son adversaire avant son propre tour.
 
 ## Journal de création
 
