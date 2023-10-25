@@ -9,6 +9,8 @@ Lors de la première démonstration technique, nous avons utilisé les mauvais c
 
 La taille des capteurs rend la calibration essentielle, car il est facile que le laser les contourne, ce qui rendrait l'installation inopérante. Il sera donc impératif de mettre en place un processus efficace de calibrage des lasers.
 
+# JOSEPH-TESSIER CHANGE L'IMAGE!!!
+![Photo du kit de laser](../medias/chaosmedia_logo.png)
 
 ## Titre
 
