@@ -9,4 +9,4 @@ Votre journal doit inclure un résumé de la semaine, vos bon coups et réussite
 
 Vous devez inclure des images, liens et autre contenu nécéssaire pour supporter vos explications et montrer l'avancement du projet.
 
-![alt text](medias/chaosmedias_logo.png)
+![Test](../medias/chaosmedias_logo.png)
