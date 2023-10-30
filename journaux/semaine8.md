@@ -10,7 +10,7 @@ Lors de la première démonstration technique, nous avons utilisé les mauvais c
 La taille des capteurs rend la calibration essentielle, car il est facile que le laser les contourne, ce qui rendrait l'installation inopérante. Il sera donc impératif de mettre en place un processus efficace de calibrage des lasers.
 
 # JOSEPH-TESSIER CHANGE L'IMAGE!!!
-![Photo du kit de laser](../medias/chaosmedia_logo.png)
+![Photo du kit de laser](../medias/sem_8_cedric/IMG_2868.JPEG)
 
 ## Ajout de lasers
 
@@ -21,9 +21,17 @@ C'était majoritairement facile, la seule complexité était de retrouver commen
 ![Photo du kit de laser](../medias/connectionlasers.png)
 
 
-## Titre
+## L'achat des câbles
 
-bla bla bla
+Un autre point marquant de notre semaine a assurément été notre visite chez ST-HUBERT FER & MÉTAUX sur le chemin Chambly à Saint-Hubert. Nous sommes allées visiter l'endroit avec la volonté d'acheter des câbles nécessaires à  bas prix vus le grand nombre que nous avons besoin pour le projet. Lors de cette visite , il y pleuvait ce qui nous a un peu compliqué la tâche lors de la recherche, mais l'ensemble s'est bien déroulé. Nous avons dû demander la participation du grand-père de Cédric puisqu’aucun de nous n’avait le montant en argent nécessaire en espèce pour le commerçant qui ne prenait aucune carte de paiement.
+
+![achat des câbles](../medias/sem_8_cedric/IMG_2944.JPG)
+
+## L'organisation
+
+Un point important de la semaine 8 a également été celui de l'organisation de notre projet. Nous sommes maintenant plus surs des dimensions nécessaires à notre projet et nous avons établi les rôles officiels de chaque membre de notre équipe. Nous sommes même allés visiter les sous-sols du CÉGEP pour nous informer sur la taille de certains meubles nécessaire à notre installation.
+
+![La gradeur du panneau en "Anthony"](../medias/sem_8_cedric/IMG_2949.JPG)
+![Hugo qui planifie](../medias/sem_8_cedric/IMG_2924.JPG)
 
 
-![Test](../medias/chaosmedia_logo.png)
