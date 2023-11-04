@@ -11,4 +11,4 @@ L'installation consiste en un parcours de lasers avec divers pièges à éviter 
 
 [Semaine 8](journaux/semaine8.md)
 
-[Semaine X](journaux/semaineXX.md)
+[Semaine 9](journaux/semaine9.md)
