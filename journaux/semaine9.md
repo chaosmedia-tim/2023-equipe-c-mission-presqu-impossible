@@ -5,7 +5,7 @@ layout: post
 
 ## Concrétisation du montage
 
-![montage](../medias/montage)
+![montage](../medias/montage.jpg)
 
 
 
