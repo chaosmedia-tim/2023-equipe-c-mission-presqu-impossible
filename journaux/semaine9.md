@@ -5,6 +5,8 @@ layout: post
 
 ## Notre logo
 ![logo](../medias/logo_regular.png)
+
+
 ![logo](../medias/logo_white_black.png)
 
 Voici notre logo définitif.
