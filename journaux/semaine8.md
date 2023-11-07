@@ -12,7 +12,7 @@ La taille des capteurs rend la calibration essentielle, car il est facile que le
 ![Photo du kit de laser](../medias/sem_8_cedric/IMG_2868.JPEG)
 
 ## Ajout de lasers
-
+Anthony dit :
 Comme avancement dans le projet, j'était en charge des lasers pour commencer à les faire marcher dans TouchDesigner. Pour commencer j'en ai seulement programmer deux et j'ai fais qu'un son joue quand le laser est blocker par un objet ou ma main.
 
 C'était majoritairement facile, la seule complexité était de retrouver comment on peut ajouter plusieurs donner de plus que 1 capteur de ArduinoIDE à TouchDesigner
