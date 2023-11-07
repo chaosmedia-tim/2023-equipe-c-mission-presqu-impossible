@@ -19,13 +19,13 @@ En vue de pouvoir avoir une meilleur connection de fil et éviter que les fils s
 
 ![sourdure1](../medias/soudure.png)
 ![soudure2](../medias/sem_9_cedric/IMG_3010.jpg)
-![soudure3](../medias/sem_9_cedric/IMG_3011.jpg)
-![soudure4](../medias/sem_9_cedric/IMG_3012.jpg)
-![soudure5](../medias/sem_9_cedric/IMG_3016.jpg)
+![soudure3](../medias/sem_9_cedric/IMG_3011.JPG)
+![soudure4](../medias/sem_9_cedric/IMG_3012.JPG)
+![soudure5](../medias/sem_9_cedric/IMG_3016.JPG)
 
 ## Concrétisation du montage
 
-![montage](../medias/soudure.jpg)
+![montage](../medias/montage.jpg)
 
 Ceci est une photo du découpage de notre capsule promotionelle contenant la présentation de nos membres et le concept de notre projet.
 
