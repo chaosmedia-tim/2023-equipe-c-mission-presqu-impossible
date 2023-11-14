@@ -6,6 +6,8 @@ layout: post
 ## Capsule promotionnelle
 
 
+Notre caspsule promotionnelle illustre le développement de la version complète de notre projet.
+
 
 
 
