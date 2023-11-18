@@ -5,7 +5,7 @@ layout: post
 
 ## Capsule promotionnelle
 
-![Capsule](../medias/Sons.png)
+![Capsule](../medias/capsule.png)
 
 Notre caspsule promotionnelle illustre le développement de la version complète de notre projet.
 
