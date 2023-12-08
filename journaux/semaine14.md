@@ -18,3 +18,8 @@ Voici un de nos tubes de lumière que nous utiliserons (si nous pouvons) sur le 
 
 ![Image de tube de lumière](../medias/tube_lumiere.jpg)
 
+## Ambiance Sonore
+
+Voici Hugo qui bonifie l'ambiance sonore de notre installation.
+
+![Hugo qui travaille](../medias/hugo_ambiance.jpg)
