@@ -23,3 +23,4 @@ Voici un de nos tubes de lumière que nous utiliserons (si nous pouvons) sur le 
 Voici Hugo qui bonifie l'ambiance sonore de notre installation.
 
 ![Hugo qui travaille](../medias/hugo_ambiance.jpg)
+
