@@ -41,4 +41,4 @@ Notre affiche sur place pour l'évènement:
 
 J'ai eu le temps de filmer notre installation lorsqu'il n'y avait pas de partie en cours :
 
-![Affiche](../medias/installation.MOV)
+![Installation](../medias/installation.MOV)
