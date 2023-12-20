@@ -27,5 +27,10 @@ Les premières étapes de notre installation terminée :
 ![Premiere étape partie 2](../medias/IMG_3436.JPG)
 
 
+Notre affiche sur place pour l'évènement:
 
+![Affiche](../medias/affiche.jpg)
 
+J'ai eu le temps de filmer notre installation lorsqu'il n'y avait pas de partie en cours :
+
+![Affiche](../medias/installation.MOV)
