@@ -26,17 +26,18 @@ Les premières étapes de notre installation terminée :
 ![Premiere étape](../medias/IMG_3435.JPG)
 ![Premiere étape partie 2](../medias/IMG_3436.JPG)
 
-
-Notre affiche sur place pour l'évènement:
-
-![Affiche](../medias/affiche.jpg)
-
 {::comment}
 fin de la section pour Cédric
 {:/comment}
 
 
 __________________________________________________________________________________________________________
+
+Notre affiche sur place pour l'évènement:
+
+![Affiche](../medias/affiche.jpg)
+
+
 
 J'ai eu le temps de filmer notre installation lorsqu'il n'y avait pas de partie en cours :
 
