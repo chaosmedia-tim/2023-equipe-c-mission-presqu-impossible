@@ -35,7 +35,7 @@ Voici Hugo qui bonifie l'ambiance sonore de notre installation.
 
 ## Optimisation des RFID dans Touchdesigner
 
-Pour cette étape de la production, on cherchai à améliorer l'utilisation des RFID`s mais on n'était pas capâble d'utiliser seulement qu'un RFID pour les plusieurs différent désavantages. Maintenant il est optimiser pour que seulement 1 RFID est nécessaire pour plusieurs carte scanner qui intéragissent différament.
+Pour cette étape de la production, on cherchait à améliorer l'utilisation des RFID`s mais on n'était pas capâble d'utiliser seulement qu'un RFID pour les plusieurs différent désavantages. Maintenant, il est optimisé pour que seulement 1 RFID est nécessaire pour plusieurs carte scannées qui intéragissent différemment.
 
 
 ![Image optimisation RFID](../medias/optimisation_rfid.png)
