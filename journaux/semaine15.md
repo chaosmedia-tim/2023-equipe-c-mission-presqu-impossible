@@ -31,6 +31,13 @@ Notre affiche sur place pour l'évènement:
 
 ![Affiche](../medias/affiche.jpg)
 
+{::comment}
+fin de la section pour Cédric
+{:/comment}
+
+
+__________________________________________________________________________________________________________
+
 J'ai eu le temps de filmer notre installation lorsqu'il n'y avait pas de partie en cours :
 
 ![Affiche](../medias/installation.MOV)
