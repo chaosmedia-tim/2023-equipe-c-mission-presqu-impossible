@@ -41,4 +41,4 @@ Notre affiche sur place pour l'évènement:
 
 J'ai eu le temps de filmer notre installation lorsqu'il n'y avait pas de partie en cours :
 
-url:<https://www.facebook.com/61552472945418/videos/889044119202544>
+<https://www.facebook.com/61552472945418/videos/889044119202544>
