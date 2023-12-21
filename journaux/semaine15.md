@@ -4,7 +4,7 @@ layout: post
 ---
 
 
-## Sons finale du projet
+## Sons finals du projet
 
 Une des étapes finales qui nous restait, avec les sons produit par Hugo et Cédric, On a pu mettre les bonnes version de chaque son que ce soit gagner des points, toucher les lasers, perdre des points et musique d'ambiance. Tous les sons finales sont maintenant dans le projet.
 
